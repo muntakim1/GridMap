@@ -1,0 +1,11 @@
+include gridmap/gridmap.min.js
+include gridmap/gridmap.min.js.map
+include gridmap/async-*.js
+include gridmap/async-*.js.map
+include gridmap/*-shared.js
+include gridmap/*-shared.js.map
+include gridmap/metadata.json
+include gridmap/package-info.json
+include README.md
+include LICENSE
+include package.json
